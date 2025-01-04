@@ -24,7 +24,7 @@
 </p>
 
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: We can talk about Astronomy all day.
 
 ![Rajeshwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshwarimarigoudra&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
