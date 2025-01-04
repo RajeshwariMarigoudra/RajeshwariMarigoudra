@@ -19,7 +19,6 @@
 <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 <img alt="Mozilla Firefox" src="https://img.shields.io/badge/-Mozilla_Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-2e2e2e?style=flat-square&logo=intellijidea&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF7139?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
